@@ -72,3 +72,6 @@ mysqladmin -u root -p {newpassword}
 ```
 mysqladmin -u root -p {oldpassword} {newpassword}
 ```
+## Reference
+- [Petunjuk Penggunaan MariaDB praktikum IF2240 Basis Data](https://docs.google.com/document/d/1iHsNyRs8g3MXBfe8pDkpPhHUCu636ZMkdyE_eFVtCFQ/edit#)
+- [MariaDB official website](https://mariadb.com/)
